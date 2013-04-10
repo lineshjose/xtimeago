@@ -1,6 +1,6 @@
-PHP Browser Detection
+'X' Time Ago PHP Function.
 =====================
-Name: 'X' Time Ago PHP Function.
+Description:  A php function that returns date as 20 seconds ago, 1 minutes ago, etc
 
 Version : 1.00
 
