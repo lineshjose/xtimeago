@@ -5,9 +5,9 @@ Version : 1.00
 
 Author: Linesh Jose
 
-Url: http://linesh.com
+Url: https://linesh.com
 
-Donate:  http://bit.ly/donate-linesh
+Donate:  https://linesh.com/make-a-donation/
 
 Copyright: Copyright (c) 2013 Linesh.com
 
